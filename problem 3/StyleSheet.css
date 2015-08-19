@@ -1,0 +1,48 @@
+body {
+    background-color: #a9a9a9;
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+h1 {
+    color: #f9f9d1;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+li, body > header > h1, body > footer {
+    text-align: center;
+}
+
+p > a {
+    color: #000000;
+}
+
+footer {
+    font-size: 1.2em;
+}
+
+li > a {
+    color: white;
+    text-decoration: none;
+}
+
+body>header>h1 {
+	font-size: 2.4em;
+}
+
+li a:hover {
+	background-color: #D3D3D3;
+}
+
+ul li:nth-child(4) {
+    text-decoration: underline;
+}

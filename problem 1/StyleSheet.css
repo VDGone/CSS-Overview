@@ -1,0 +1,53 @@
+﻿body {
+    font-family: calibri;
+    font-size: 14px;
+    color: #bbbbbb;
+    background-color: #606060;
+    margin: 0 auto;
+    font-family: Arial;
+    font-weight: 100;
+}
+
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    font-size: 1.6em;
+    color: #BBBBBB;
+}
+
+th {
+    vertical-align: top;
+    text-align: left;
+    color: #FFFFFF;
+    font-style: italic;
+    padding-right: 1.4em;
+}
+
+td {
+    vertical-align: text-top;
+}
+
+tr.top {
+    height: 30px;
+}
+
+tr.bottom {
+    height: 45px;
+}
+
+#yellow-color {
+    color: #fff9b5;
+}
+
+#red-color {
+    color: #ff0000;
+}
+
+#orange-color {
+    color: #ff6a00;
+}
+
+#green-circle {
+    width: 0.8em;
+    height: 0.8em;
+}
